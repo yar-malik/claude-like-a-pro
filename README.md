@@ -1,5 +1,7 @@
 # Claude like a pro: the kit
 
+[![Watch the video](thumbnail.jpg)](https://www.youtube.com/watch?v=BpuAOdRXouQ)
+
 Everything from the video, so you can copy it into your own business in 10 minutes.
 
 Pine Street Dog Walks is a pretend business. Every file in `example/` except the brain dump and the week's notes was
